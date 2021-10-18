@@ -8,4 +8,4 @@
 
 ## About Me
 [![Github](https://img.shields.io/badge/Github-BorneoExploit-green?style=for-the-badge&logo=github)](https://github.com/BorneoExploit)
-[![Whatsapp](https://img.shields.io/badge/Whatsapp-Arief Dev-green?style=for-the-badge&logo=whatsapp)](https://wa.me/6282211591052) 
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-Arief-Dev-green?style=for-the-badge&logo=whatsapp)](https://wa.me/6282211591052) 
