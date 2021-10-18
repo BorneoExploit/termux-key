@@ -9,4 +9,4 @@
 ## [+] Developer
 [![Github](https://img.shields.io/badge/Github-BorneoExploit-green?style=for-the-badge&logo=github)](https://github.com/BorneoExploit)
 [![Facebook](https://img.shields.io/badge/Facebook-AriefDev-green?style=for-the-bade&logo=facebook)](
-=https://www.facebook.com/profile.php?id=100073229015986) 
+=https://facebook.com/profile.php?id=100073229015986) 
