@@ -6,6 +6,6 @@
 * ```cd termux-key```
 * ```python key.py```
 
-##[+] Developer
-[![Github](https://img.shields.io/badge/Github-HTR--TECH-green?style=for-the-badge&logo=github)](https://github.com/htr-tech)
+## [+] Developer
+[![Github](https://img.shields.io/badge/Github-AriefDev-green?style=for-the-badge&logo=github)](https://github.com/BorneoExploit)
 
