@@ -5,6 +5,7 @@
 * ```git clone https://github.com/BorneoExploit/termux-key/```
 * ```cd termux-key```
 * ```python key.py```
+
 ##[+] Developer
-[![WHATSAPP]
-()]
+[![Github](https://img.shields.io/badge/Github-HTR--TECH-green?style=for-the-badge&logo=github)](https://github.com/htr-tech)
+
